@@ -17,6 +17,6 @@ that data to make it safe to store in a MySQL text column, and then how to decry
 data with the encrypted key.
 
 ## Some References
-- (https://docs.aws.amazon.com/kms/latest/APIReference/API_GenerateDataKey.html)
-- (https://docs.aws.amazon.com/wellarchitected/latest/financial-services-industry-lens/use-envelope-encryption-with-customer-master-keys.html)
-- (https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html#enveloping)
+- https://docs.aws.amazon.com/kms/latest/APIReference/API_GenerateDataKey.html
+- https://docs.aws.amazon.com/wellarchitected/latest/financial-services-industry-lens/use-envelope-encryption-with-customer-master-keys.html
+- https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html#enveloping
